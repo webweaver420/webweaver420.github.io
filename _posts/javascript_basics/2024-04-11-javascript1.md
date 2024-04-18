@@ -3,7 +3,7 @@ layout: post
 title: 의미가 명확하고 가독성이 좋은 변수명 종류
 date: 2024-04-11 17:29 +0900
 description: 자바스크립트 변수명
-image: 
+image: ../assets/img/img7.jpg
 category: 코딩
 tags: 자바스크립트변수명
 published: true

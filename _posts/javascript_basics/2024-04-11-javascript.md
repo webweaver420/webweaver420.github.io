@@ -3,7 +3,7 @@ layout: post
 title: 자바스크립트에서 변수 이름은 어떻게 지정할 수 있을까
 date: 2024-04-11 17:29 +0900
 description: 자바스크립트에서 변수 이름은 어떻게 지정할 수 있을까
-image: 
+image: ../assets/img/img8.jpg
 category: 코딩
 tags: 자바스크립트변수명
 published: true
