@@ -13,12 +13,12 @@ sitemap: true
 # Github 사용법
 
 ## Github 설치하기
-Github 미설치시 작동이 안되니 꼭 설치부터 해주세요!!!
+Github를 사용하시려면 설치부터 해주셔야 해요.
 
-깃허브(GitHub)를 설치하는 방법은 다음과 같습니다.
+깃허브(GitHub) 설치하는 방법은 다음과 같습니다.
 
-1. Git은 소스 코드 버전 관리 시스템으로, 깃허브와 함께 사용됩니다. Git을 설치하는 방법은 다음과 같습니다:
 
+````
 - Windows: https://git-scm.com/download/win 에서 Git을 다운로드하여 설치합니다.
 - macOS: 터미널을 열고 brew install git 명령을 실행하여 Homebrew를 통해 Git을 설치할 수 있습니다.
 - Linux: 대부분의 리눅스 배포판은 기본적으로 Git을 포함하고 있습니다. 터미널에서 sudo apt-get install git (Debian/Ubuntu 기반) 또는 sudo yum install git (Fedora/CentOS 기반) 등의 명령을 사용하여 설치할 수 있습니다.
@@ -38,8 +38,9 @@ Github 미설치시 작동이 안되니 꼭 설치부터 해주세요!!!
 8. 저장소 주소(URL)는 앞서 복사한 주소를 붙여넣습니다.
 
 9. 저장소가 성공적으로 복제되면, 해당 폴더로 이동하여 작업을 진행할 수 있습니다.
+````
 
-이제 Git과 GitHub를 사용하여 소스 코드를 관리하고 협업할 수 있습니다.
+이제 GitHub를 사용하여 소스 코드를 관리하고 협업할 수 있습니다.
 
 
 
