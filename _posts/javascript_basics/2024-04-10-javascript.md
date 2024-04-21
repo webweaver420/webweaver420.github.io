@@ -19,7 +19,7 @@ sitemap: true
 
 변수를 선언하고 값을 할당할 때 사용하는 자료형에는 문자열(string), 숫자(number), 불린(boolean), 배열(array), 객체(object) 등이 있습니다.
 
-````
+````javascript
 let name = "John";
 let age = 30;
 let isAdult = true;
@@ -39,7 +39,7 @@ let person = { name: "John", age: 30 };
 
 증감 연산자: 변수의 값을 1씩 증가시키는 증가 연산자(++)와 감소시킬 때 사용되는 감소 연산자(--)가 있습니다.
 
-````
+````javascript
 let x = 5;
 let y = 10;
 let sum = x + y;
@@ -55,7 +55,7 @@ let logicalAnd = (x > 0) && (y > 0);
 
 자바스크립트에서 함수는 function 키워드를 사용하여 정의됩니다. 함수는 입력 매개변수(parameter)를 받아들이고 이를 처리한 후 결과를 반환할 수 있습니다. 함수가 반환하는 값이 없는 경우에는 undefined가 반환됩니다.
 
-````
+````javascript
 function greet(name) {
   return "Hello, " + name + "!";
 }
@@ -68,7 +68,7 @@ console.log(message); // 출력: Hello, John!
 배열은 연속된 메모리 공간에 데이터를 저장하는 자료구조이고, 대괄호 []로 둘러싸인 요소들의 목록으로 정의됩니다. 
 객체는 키(key)와 값(value)의 쌍으로 이루어진 컬렉션으로 중괄호 {}를 사용하여 정의되며, 각 키와 값은 콜론 :으로 구분됩니다.
 
-````
+````javascript
 let fruits = ["apple", "banana", "orange"];
 console.log(fruits[0]); // 출력: apple
 

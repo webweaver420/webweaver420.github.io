@@ -29,6 +29,7 @@ sitemap: true
 
 몇 가지 예를 들어볼게요.
 
+````javascript
 userName
 userAge
 isAdmin
@@ -39,6 +40,7 @@ isVisible
 itemIndex
 elementId
 jsonData
+````
 
 변수 이름을 지정하는 것은 자유롭게 지정할 수 있지만, 이러한 명명 규칙과 관례를 따르면 코드를 더욱 이해하기 쉬울뿐만이 아니라 유지보수하기도 쉽게 됩니다.
 

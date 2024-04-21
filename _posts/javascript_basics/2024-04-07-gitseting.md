@@ -18,7 +18,7 @@ Github를 사용하시려면 설치부터 해주셔야 해요.
 깃허브(GitHub) 설치하는 방법은 다음과 같습니다.
 
 
-````
+````javascript
 - Windows: https://git-scm.com/download/win 에서 Git을 다운로드하여 설치합니다.
 - macOS: 터미널을 열고 brew install git 명령을 실행하여 Homebrew를 통해 Git을 설치할 수 있습니다.
 - Linux: 대부분의 리눅스 배포판은 기본적으로 Git을 포함하고 있습니다. 터미널에서 sudo apt-get install git (Debian/Ubuntu 기반) 또는 sudo yum install git (Fedora/CentOS 기반) 등의 명령을 사용하여 설치할 수 있습니다.
