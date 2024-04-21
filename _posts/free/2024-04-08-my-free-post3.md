@@ -10,4 +10,4 @@ published: true
 sitemap: true
 ---
 
-블로그를 만들어보았다
+블로그를 만들어보았다!!
